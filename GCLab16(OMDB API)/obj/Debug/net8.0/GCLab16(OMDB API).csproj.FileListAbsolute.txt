@@ -1,0 +1,33 @@
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\appsettings.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).staticwebassets.runtime.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).exe
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).deps.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).runtimeconfig.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).dll
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\GCLab16(OMDB API).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).csproj.AssemblyReference.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).AssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).RazorAssemblyInfo.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).RazorAssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets\msbuild.GCLab16(OMDB API).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets\msbuild.build.GCLab16(OMDB API).props
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GCLab16(OMDB API).props
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GCLab16(OMDB API).props
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\scopedcss\bundle\GCLab16(OMDB API).styles.css
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\scopedcss\projectbundle\GCLab16(OMDB API).bundle.scp.css
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).csproj.CopyComplete
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).dll
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\refint\GCLab16(OMDB API).dll
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\GCLab16(OMDB API).genruntimeconfig.cache
+C:\Users\elire\source\repos\GC Labs\GCLab16(OMDB API)\GCLab16(OMDB API)\obj\Debug\net8.0\ref\GCLab16(OMDB API).dll

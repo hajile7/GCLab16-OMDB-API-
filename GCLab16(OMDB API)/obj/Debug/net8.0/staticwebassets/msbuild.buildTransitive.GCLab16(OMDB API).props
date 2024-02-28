@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GCLab16(OMDB API).props" />
+</Project>

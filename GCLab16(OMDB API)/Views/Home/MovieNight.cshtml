@@ -1,0 +1,23 @@
+﻿@model List<MovieModel>
+
+<form asp-method="Post" asp-action="MovieNight" asp-controller="Home">
+    <input type="text" name="title1" id="title1" placeholder="Title 1 here" />
+    <input type="text" name="title2" id="title2" placeholder="Title 2 here" />
+    <input type="text" name="title3" id="title3" placeholder="Title 3 here" />
+
+    <br />
+    <input type="submit" />
+</form>
+
+@{
+    foreach(MovieModel m in Model)
+    {
+       <h1>@m.Title</h1>
+       <img src="@m.Poster" />
+       <p>@m.Year</p>
+       <p>@m.Genre</p>
+       <p>@m.Rated</p>
+       <p>@m.Runtime</p>
+       <p>@m.Plot</p>
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTU8CGe1VoIxRdyb17l5WAT7CPlN3wVUwDChJLeDK5MhRYdOnmmUpiy1XMn9T+ufW9389XaZ9+dSIRaWLognVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab16(OMDB API)\\GCLab16(OMDB API)\\GCLab16(OMDB API).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elire\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
